@@ -1,0 +1,36 @@
+h2 {
+    font-size:30px;
+    font-family:'Press Start 2P', cursive;
+}
+
+p {
+    font-size:20px;
+    font-family:'Press Start 2P', cursive;
+}
+
+body {
+    background-color:gray;
+    text-align:center;
+    background-image:url("morebizkitz.jpg"), url("bizkitz.jpg"), url("biscuits.jpg");
+    background-repeat:no-repeat;
+    background-position:top, left top, right top;
+    background-size:700px 290px, 700px 290px, 700px 290px;
+}
+
+a {
+    font-size:25px;
+    font-family:'Press Start 2P', cursive;
+    border-style:double;
+    border-width:10px;
+    border-color:black;
+}
+
+div {
+    text-align: left;
+    height:90px;
+    line-height:90px;
+}
+
+hr {
+    border-color:black;
+}
