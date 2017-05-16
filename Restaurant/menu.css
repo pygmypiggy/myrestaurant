@@ -23,6 +23,7 @@ a {
     border-style:double;
     border-width:10px;
     border-color:black;
+    text-decoration: none;
 }
 
 div {
@@ -33,4 +34,15 @@ div {
 
 hr {
     border-color:black;
+}
+
+a:hover {
+    font-style: bold;
+}
+
+ul {
+   list-style-type: none;
+   font-size:20px;
+   font-family: 'Press Start 2P', cursive;
+   text-align: center;
 }
